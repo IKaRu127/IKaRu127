@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IKaRu127
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on a cool project :)
 - 📫 How to reach me : send me a message :)
 
